@@ -1,4 +1,8 @@
 # Final Project - Visual Analytics
+Cultural Data Science - Visual Analytics
+Author: Christian Norup Kolding (201805727)
+Date: 16th of June 2023
+
 
 # Description
 In this last assignment for my portfolio the goal is to train a a classifier on a dataset consisting of 227 x-ray images of "normal" lungs versus lungs infected with Covid-19. My motivation for choosing this particular topic is derived from my interest in human longevity and health. 
