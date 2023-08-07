@@ -1,5 +1,4 @@
 # Final Project - Visual Analytics
-Cultural Data Science - Visual Analytics
 Author: Christian Norup Kolding (201805727)
 Date: 16th of June 2023
 
