@@ -1,5 +1,6 @@
 # Final Project - Visual Analytics
 Author: Christian Norup Kolding (201805727)
+<br>
 Date: 16th of June 2023
 
 
