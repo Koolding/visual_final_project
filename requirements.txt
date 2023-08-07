@@ -1,0 +1,8 @@
+tensorflow==2.9
+keras==2.9
+zipfile36
+matplotlib
+numpy
+scikit-learn
+pandas
+opencv-python
